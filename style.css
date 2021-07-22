@@ -189,7 +189,6 @@ h1 {
     width: 5px;
 }
 
-
 @media (max-width: 600px) {
     .kek-button {
         position: relative;
@@ -231,7 +230,6 @@ h1 {
         display: none;
     }
 }
-
 
 @media(min-width: 300px) {
     .kek-button {
